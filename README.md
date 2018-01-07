@@ -1,6 +1,6 @@
-#Algorithm-Problem-solving-strategies
+# Algorithm-Problem-solving-strategies
 
-##일정
+## 일정
 
 
 * 1회차: 
@@ -10,13 +10,13 @@
 * 2회차: 
     4. 알고리즘의 시간 복잡도 분석
     6. 무식하게 풀기(brute-force)
-    * [BOGGLE][BOGGLE][PICNIC][PICNIC][BOARDCOVER][BOARDCOVER][CLOCKSYNC][CLOCKSYNC]
+    * [BOGGLE][BOGGLE] [PICNIC][PICNIC] [BOARDCOVER][BOARDCOVER] [CLOCKSYNC][CLOCKSYNC]
 * 3회차: 
     7. 분할 정복
-    * [QUADTRIP][QUADTRIP][FENCE][FENCE][FANMEETING][FANMEETING]
+    * [QUADTRIP][QUADTRIP] [FENCE][FENCE] [FANMEETING][FANMEETING]
 * 4회차: 
     8. 동적 계획법
-    * [JUMPGAME][JUMPGAME][WILDCARD][WILDCARD][TRIANGLEPATH][TRIANGLEPATH][LIS][LIS][JLIS][JLIS][PI][PI][QUANTIZE][QUANTIZE]
+    * [JUMPGAME][JUMPGAME] [WILDCARD][WILDCARD] [TRIANGLEPATH][TRIANGLEPATH] [LIS][LIS] [JLIS][JLIS] [PI][PI] [QUANTIZE][QUANTIZE]
 * 5회차: 
     18. 선형 자료 구조
 * 6회차: 
