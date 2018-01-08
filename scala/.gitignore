@@ -1,0 +1,21 @@
+*.class
+*.log
+target/
+
+# Ensime specific
+.ensime
+.ensime_cache/
+.ensime_lucene/
+
+# Idea
+.classpath
+.idea/
+.project
+.settings
+
+# Eclipse
+/bin/
+.cache-main
+.cache-tests
+.worksheet
+
